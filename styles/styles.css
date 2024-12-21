@@ -1,0 +1,538 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body {
+padding: 166px 169px 166px 147px;
+max-width: 1920px;
+width: 100%;
+max-height: 2676px;
+height: 100%;
+}
+
+main {
+max-width: 1604px;
+width: 100%;
+margin: 0 auto;
+padding: 162px;
+background: #E4EBFF;
+}
+
+
+#content {
+max-width: 1280px;
+width: 100%;
+padding-top: 96px; 
+padding-bottom: 96px;
+background: #FFFFFF;
+}
+
+
+#contentHeadingConteinerMom {
+max-width: 1280px;
+width: 100%;
+padding: 0px 32px;
+text-align: center;
+margin-bottom: 96px;
+}
+
+#features {
+color: #6941C6;
+text-align: center;
+font-family: "Inter", serif;
+font-size:  16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+margin-bottom: 12px;
+}
+
+#Sub {
+color: #181D27;
+text-align: center;
+font-family: "Inknut Antiqua";
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.8px;
+margin-bottom: 32px;
+}
+
+#SubTwo {
+color: #535862;
+text-align: center;
+font-family: "Inria Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+#shareInboxes {
+max-width: 1280px;
+width: 100%;
+padding: 0px 32px;
+margin-bottom: 96px;
+overflow: hidden;
+}
+
+#ShareInboxesOne {
+margin-right: 96px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#IconAndTextOne {
+margin-bottom: 32px;
+}
+
+#iconOneDiv {
+width: 48px;
+height: 48px;
+padding: 12px;
+margin-bottom: 20px;
+border-radius: 9999px;
+background: #F4EBFF;
+}
+
+#messageSvg {
+width: 24px;
+height: 24px;
+}
+
+#HeadingAndSupportingTextOne {
+max-width: 553px;
+width: 100%;
+}
+/*aqamde movkope*/
+#Shares {
+color: #181D27;
+font-family: Inter;
+font-size: 30px ;
+font-style: normal;
+font-weight: 600;
+line-height: 38px; 
+margin-bottom: 16px;
+}
+
+#Weather {
+color: #535862;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; 
+}
+
+#checkItemsOne {
+padding-left: 16px;
+}
+
+
+#checkItemTextOneOne {
+margin-bottom: 20px;
+}
+
+#checkItemTextOneTwo {
+margin-bottom: 20px;
+}
+
+#checkIconOneOneDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checkIconOneTwoDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checkIconOneThreeDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextOneOne {
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextOneTwo {
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextOneThree {
+display: inline-block;
+vertical-align: middle;
+}
+
+#leverage {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+#always {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+#automate {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+
+#shareinboxesPhotoOneDiv {
+width: 512px;
+padding: 5px 0px 5px 5px;
+vertical-align: middle;
+display: inline-block;
+overflow: visable;
+}
+
+#mydashOne {
+width: 753px;
+height: 502px;
+}
+
+/*second*/
+
+#deliverInstant {
+max-width: 1280px;
+width: 100%;
+padding: 0px 32px;
+margin-bottom: 96px;
+overflow: hidden;
+}
+
+
+#shareinboxesPhotoTwoDiv {
+width: 512px;
+padding: 5px 0px 5px 5px;
+vertical-align: middle;
+display: inline-block;
+margin-left: -200px;
+margin-right: 251px;
+}
+
+#mydashTwo {
+width: 753px;
+height: 502px;
+}
+
+#ShareInboxesTwo {
+margin-left: 96px;
+vertical-align: middle;
+display: inline-block;
+}
+
+
+
+#IconAndTextTwo {
+margin-bottom: 32px;
+}
+
+#iconTwoDiv {
+width: 48px;
+height: 48px;
+padding: 12px;
+margin-bottom: 20px;
+border-radius: 9999px;
+background: #F4EBFF;
+}
+
+#zapSvg {
+width: 24px;
+height: 24px;
+}
+
+#HeadingAndSupportingTextTwo {
+max-width: 553px;
+width: 100%;
+}
+
+
+
+#Deliver {
+color: #181D27;
+font-family: Inter;
+font-size: 30px ;
+font-style: normal;
+font-weight: 600;
+line-height: 38px; 
+margin-bottom: 16px;
+}
+
+#AllIn {
+color: #535862;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; 
+}
+
+#checkItemsTwo {
+padding-left: 16px;
+}
+
+
+#checkItemTextTwoOne {
+margin-bottom: 20px;
+}
+
+#checkItemTextTwoTwo {
+margin-bottom: 20px;
+}
+
+#checkIconTwoOneDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checkIconTwoTwoDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checkIconTwoThreeDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextTwoOne {
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextTwoTwo {
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextTwoThree {
+display: inline-block;
+vertical-align: middle;
+}
+
+#Keep {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+#embed {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+#customers {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+/*mesame*/
+
+#ManageYour {
+max-width: 1280px;
+width: 100%;
+padding: 0px 32px;
+margin-bottom: 96px;
+overflow: hidden;
+}
+
+#ShareInboxesThree {
+margin-right: 96px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#IconAndTextThree {
+margin-bottom: 32px;
+}
+
+#iconThreeDiv {
+width: 48px;
+height: 48px;
+padding: 12px;
+margin-bottom: 20px;
+border-radius: 9999px;
+background: #F4EBFF;
+}
+
+#chartSvg {
+width: 24px;
+height: 24px;
+}
+
+#HeadingAndSupportingTextThree {
+max-width: 553px;
+width: 100%;
+}
+
+#manage {
+color: #181D27;
+font-family: Inter;
+font-size: 30px ;
+font-style: normal;
+font-weight: 600;
+line-height: 38px; 
+margin-bottom: 16px;
+}
+
+#measure {
+color: #535862;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; 
+}
+
+#checkItemsThree {
+padding-left: 16px;
+}
+
+
+#checkItemTextThreeOne {
+margin-bottom: 20px;
+}
+
+#checkItemTextThreeTwo {
+margin-bottom: 20px;
+}
+
+#checkIconThreeOneDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checkIconThreeTwoDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checkIconThreeThreeDiv {
+width: 28px;
+height: 28px;
+border-radius: 9999px;
+margin-right: 12px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextThreeOne {
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextThreeTwo {
+display: inline-block;
+vertical-align: middle;
+}
+
+#checktextThreeThree {
+display: inline-block;
+vertical-align: middle;
+}
+
+#filter {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+#save {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+#connectThe {
+color: #535862;
+font-family: Inder;
+font-size: 18px ;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+
+#shareinboxesPhotoThreeDiv {
+width: 512px;
+padding: 5px 0px 5px 5px;
+vertical-align: middle;
+display: inline-block;
+overflow: visible;
+}
+
+#mydashThree {
+width: 753px;
+height: 502px;
+}
